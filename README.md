@@ -1,1 +1,1 @@
-# excel-Finance-Analytics
+# Excel-Finance-Analytics
